@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+       "market_cap_rank":1,
+      "id": "bitcoin",
+      "current_price": 46522,
+      "market_cap_change_24h":37950729349,
+      "image":"https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+        
+            
+    },
+  {
+     "market_cap_rank":2,
+      "id": "ethereum",
+      "current_price": 3236.12,
+      "market_cap_change_24h":17515191984,
+      "image":"https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880"
+        
+            
+    },
+  {
+     "market_cap_rank":3,
+      "id": "cardano",
+      "current_price": 2.05,
+      "market_cap_change_24h":9763874212,
+      "image":"https://assets.coingecko.com/coins/images/975/large/cardano.png?1547034860"      
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
